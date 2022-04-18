@@ -1,1 +1,1 @@
-# LR2
+# .Net framework 6.0
